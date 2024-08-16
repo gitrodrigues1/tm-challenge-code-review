@@ -1,4 +1,5 @@
-export class WeatherResponseData {
+export class WeatherResponseDto {
+  city_name: string;
   cloud_pct: number;
   temp: number;
   feels_like: number;
