@@ -7,7 +7,7 @@ Usando sua experiência em desenvolvimento de software, patterns de code design,
 Realize um Fork do projeto e abra uma PR própria em seu fork com a review.
 
 
-### API Previsão do Tempo :mostly_sunny:
+### API Previsão do Tempo :partly_sunny:
 O objetivo desta API é disponibilizar a consulta da previsão do tempo da cidade informada, no momento atual.
 
 #### Estrutura do projeto
